@@ -1,0 +1,88 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    /* width: 1000px;
+    height: 900px;
+    background-color: red; */
+}
+.box{
+    background-color: greenyellow;
+    border-radius: 10px;
+    margin: 20px;
+    width: 800px;
+    height: 800px;
+}
+.title{
+    font-size: 5rem;
+}
+.sub-title{
+    padding-top: 3rem;
+    font-size: 3rem;
+}
+.inputbox{
+    margin-top: 30px;
+    border-radius: 30px;
+    width: 25rem;
+    height: 30px;
+}
+#pic{
+    width: 20px;
+    height: 20px;
+}
+.button-1{
+    font-size: 17px;
+    font-weight: bold;
+    margin-top: 30px;
+    border-radius: 30px;
+    width: 25rem;
+    height: 60px;
+}
+.gap{
+    text-align: center;
+    padding-top: 15px;
+    font-size: 30px;
+    width: 25rem;
+    height: 60px;
+}
+.button-2{
+    font-size: 17px;
+    font-weight: bold;
+    background-color: rgb(57, 124, 201);
+    border-radius: 30px;
+    width: 25rem;
+    height: 60px;
+}
+.text{
+    padding: 20px;
+    font-size: 18px;
+    width: 25rem;
+    height: 70px;
+}
+.clr{
+    color: blue;
+}
+.sub-title1{
+    padding: 10px;
+    font-size: 30px;
+    width: 25rem;
+    height: 40px;
+}
+.btn3{
+    width: 25rem;
+    height: 30px;
+    text-align: center;
+}
+#button-3{
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+    border-radius: 30px;
+    width: 10rem;
+    height: 60px;
+}
+
